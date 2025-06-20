@@ -125,7 +125,8 @@ def generate_checksums():
                 for file in files:
                     if is_valid_filename(file):
                         file_path = os.path.join(root, file)
-                        relative_path = os.path.relpath(file_path, '.')
+                        # Use forward slashes for JSON key and URL
+                        relative_path = os.path.relpath(file_path, '.').replace('\\', '/')
                         
                         file_hash = calculate_file_hash(file_path)
                         if file_hash:
