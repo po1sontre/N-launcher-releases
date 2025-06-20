@@ -1,0 +1,52 @@
+{
+  "launcher.exe": {
+    "hash": "b571c5523edd55fc1b74f1aea89c05af48b40f8faaa0706d70b13414e7bcfe9c",
+    "size": 46010169,
+    "type": "file"
+  },
+  "regulation.bin": {
+    "hash": "c105f78a1ca81b3d9cba1c06ea3918955931c958cd183095dd9ede5ad62f6b4d",
+    "size": 1538784,
+    "type": "file"
+  },
+  "update.exe": {
+    "hash": "8a0206f9690e589e7c7378c99d72af54892518636ffa2f4734461b88e7e55a91",
+    "size": 93477621,
+    "type": "file"
+  },
+  "game_actions_480.vdf": {
+    "hash": "029277a6ee29d409a75265d9898dfdfdcd85f58fa036b70f48f13a5158f2ec4d",
+    "size": 1652,
+    "type": "file"
+  },
+  "fps_unlocker_config.json": {
+    "hash": "753317056948607444931f8b27d759b45e43650b94843e08e7638363876cae85",
+    "size": 309,
+    "type": "file"
+  },
+  "launcher_config.ini": {
+    "hash": "84898fb86f3daffd2eea3030843aafd42924d110928ac2cfe314bc3ea30b1670",
+    "size": 129,
+    "type": "file"
+  },
+  "online_patch": {
+    "hash": "85c6a64afbe33ab2a1563cf3ab52c2f247b8bdf53c7595be9ec5c4f07dd4c6a3",
+    "type": "folder"
+  },
+  "templates": {
+    "hash": "ac102171be912af8a9984bf03209be91b4c7d1dacc8291f0028648b09bcd6941",
+    "type": "folder"
+  },
+  "fps unlock": {
+    "hash": "26f93c6471229ed4655e038bf3e79fcfd89dc5d2450e6d1c0e7a50b43169d358",
+    "type": "folder"
+  },
+  "nograssnoshadows": {
+    "hash": "7f136cc9ee7b1cfe641c964a436b2d86e2668dedaf92721c39eb0f9def28db1c",
+    "type": "folder"
+  },
+  "mods": {
+    "hash": "c105f78a1ca81b3d9cba1c06ea3918955931c958cd183095dd9ede5ad62f6b4d",
+    "type": "folder"
+  }
+}

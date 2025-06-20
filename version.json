@@ -1,0 +1,82 @@
+{
+  "version": "1.01.03",
+  "build_date": "2024-12-19",
+  "min_required_version": "1.00.00",
+  "changelog": "Enhanced FPS unlock system, performance mode, fresh install support, and improved UI",
+  "files": {
+    "launcher.exe": {
+      "hash": "",
+      "size": 46137344,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/launcher.exe",
+      "required": true
+    },
+    "online_patch/": {
+      "hash": "",
+      "size": 0,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/online_patch/",
+      "required": true,
+      "is_folder": true
+    },
+    "templates/": {
+      "hash": "",
+      "size": 0,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/templates/",
+      "required": true,
+      "is_folder": true
+    },
+    "fps unlock/": {
+      "hash": "",
+      "size": 0,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/fps%20unlock/",
+      "required": true,
+      "is_folder": true
+    },
+    "nograssnoshadows/": {
+      "hash": "",
+      "size": 0,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/nograssnoshadows/",
+      "required": true,
+      "is_folder": true
+    },
+    "mods/": {
+      "hash": "",
+      "size": 0,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/mods/",
+      "required": false,
+      "is_folder": true
+    },
+    "regulation.bin": {
+      "hash": "",
+      "size": 1572864,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/regulation.bin",
+      "required": true
+    },
+    "update.exe": {
+      "hash": "",
+      "size": 93323264,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/update.exe",
+      "required": true
+    },
+    "game_actions_480.vdf": {
+      "hash": "",
+      "size": 1638,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/game_actions_480.vdf",
+      "required": true
+    },
+    "fps_unlocker_config.json": {
+      "hash": "",
+      "size": 309,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/fps_unlocker_config.json",
+      "required": false
+    },
+    "launcher_config.ini": {
+      "hash": "",
+      "size": 129,
+      "url": "https://github.com/po1sontre/N-launcher-releases/raw/main/launcher_config.ini",
+      "required": false
+    }
+  },
+  "update_server": "https://github.com/po1sontre/N-launcher-releases",
+  "download_base_url": "https://github.com/po1sontre/N-launcher-releases/raw/main/",
+  "changelog_url": "https://github.com/po1sontre/N-launcher-releases/raw/main/changelog.md"
+} 
