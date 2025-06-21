@@ -29,6 +29,12 @@
     "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/testfile3.txt",
     "required": true
   },
+  "testfile4.txt": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/testfile4.txt",
+    "required": true
+  },
   "update.exe": {
     "hash": "8a0206f9690e589e7c7378c99d72af54892518636ffa2f4734461b88e7e55a91",
     "size": 93477621,
