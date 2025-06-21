@@ -12,15 +12,9 @@
     "required": true
   },
   "launcher.exe": {
-    "hash": "05462cf23b22e613d79a87a63f7637c97b8737888ad251ff899985ded3a8176d",
-    "size": 49895963,
+    "hash": "4ff28512988269995c632368358379a6e4c14fcb263b7e25db73791adbe2e139",
+    "size": 49895684,
     "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.exe",
-    "required": true
-  },
-  "launcher_config.ini": {
-    "hash": "84898fb86f3daffd2eea3030843aafd42924d110928ac2cfe314bc3ea30b1670",
-    "size": 129,
-    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher_config.ini",
     "required": true
   },
   "regulation.bin": {
