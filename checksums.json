@@ -12,8 +12,8 @@
     "required": true
   },
   "launcher.exe": {
-    "hash": "238286ab62ade49843381dd9ae3db18659387b782c0296c2cbe7f133f62ed88b",
-    "size": 49895117,
+    "hash": "05462cf23b22e613d79a87a63f7637c97b8737888ad251ff899985ded3a8176d",
+    "size": 49895963,
     "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.exe",
     "required": true
   },
