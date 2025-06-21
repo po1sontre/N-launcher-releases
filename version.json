@@ -16,27 +16,9 @@
       "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/game_actions_480.vdf",
       "required": true
     },
-    "lasttestfilepls.txt": {
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/lasttestfilepls.txt",
-      "required": true
-    },
-    "lasttestfileprettyprettypls.txt": {
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/lasttestfileprettyprettypls.txt",
-      "required": true
-    },
-    "lasttestfileprettyprettyprettypls.txt": {
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/lasttestfileprettyprettyprettypls.txt",
-      "required": true
-    },
     "launcher.exe": {
-      "hash": "4ff28512988269995c632368358379a6e4c14fcb263b7e25db73791adbe2e139",
-      "size": 49895684,
+      "hash": "7a6c1eea286cecb6751ce1feee764837ed601819ae159fe2a2d6dda2acaedca3",
+      "size": 49898358,
       "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.exe",
       "required": true
     },
@@ -44,18 +26,6 @@
       "hash": "c105f78a1ca81b3d9cba1c06ea3918955931c958cd183095dd9ede5ad62f6b4d",
       "size": 1538784,
       "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/regulation.bin",
-      "required": true
-    },
-    "testfile3.txt": {
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/testfile3.txt",
-      "required": true
-    },
-    "testfile4.txt": {
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/testfile4.txt",
       "required": true
     },
     "update.exe": {
