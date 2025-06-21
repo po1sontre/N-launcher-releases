@@ -5,8 +5,8 @@
   "changelog": "Enhanced FPS unlock system, performance mode, fresh install support, and improved UI. Now uses ZIP-based downloads for better efficiency.",
   "files": {
     "launcher.exe": {
-      "hash": "b571c5523edd55fc1b74f1aea89c05af48b40f8faaa0706d70b13414e7bcfe9c",
-      "size": 46010169,
+      "hash": "17dc93f3000ea7e24be14ce06de280fbf0283fe54dc0e4cf52395b59b5ac8656",
+      "size": 49888630,
       "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.exe",
       "required": true
     },
