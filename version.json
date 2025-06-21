@@ -16,6 +16,12 @@
       "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/game_actions_480.vdf",
       "required": true
     },
+    "lasttestfilepls.txt": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/lasttestfilepls.txt",
+      "required": true
+    },
     "launcher.exe": {
       "hash": "4ff28512988269995c632368358379a6e4c14fcb263b7e25db73791adbe2e139",
       "size": 49895684,
