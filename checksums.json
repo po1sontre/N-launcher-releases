@@ -12,8 +12,8 @@
     "required": true
   },
   "launcher.exe": {
-    "hash": "c405fc79333c6cabf28bd611caef430c082fb57bc016dd39973d1c541fde73b3",
-    "size": 49893104,
+    "hash": "238286ab62ade49843381dd9ae3db18659387b782c0296c2cbe7f133f62ed88b",
+    "size": 49895117,
     "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.exe",
     "required": true
   },
@@ -27,12 +27,6 @@
     "hash": "c105f78a1ca81b3d9cba1c06ea3918955931c958cd183095dd9ede5ad62f6b4d",
     "size": 1538784,
     "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/regulation.bin",
-    "required": true
-  },
-  "testfile2.txt": {
-    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "size": 0,
-    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/testfile2.txt",
     "required": true
   },
   "update.exe": {
