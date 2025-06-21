@@ -1,20 +1,8 @@
 {
-  "launcher.exe": {
-    "hash": "c405fc79333c6cabf28bd611caef430c082fb57bc016dd39973d1c541fde73b3",
-    "size": 49893104,
-    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.exe",
-    "required": true
-  },
-  "regulation.bin": {
-    "hash": "c105f78a1ca81b3d9cba1c06ea3918955931c958cd183095dd9ede5ad62f6b4d",
-    "size": 1538784,
-    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/regulation.bin",
-    "required": true
-  },
-  "update.exe": {
-    "hash": "8a0206f9690e589e7c7378c99d72af54892518636ffa2f4734461b88e7e55a91",
-    "size": 93477621,
-    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/update.exe",
+  "fps_unlocker_config.json": {
+    "hash": "753317056948607444931f8b27d759b45e43650b94843e08e7638363876cae85",
+    "size": 309,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/fps_unlocker_config.json",
     "required": true
   },
   "game_actions_480.vdf": {
@@ -23,16 +11,34 @@
     "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/game_actions_480.vdf",
     "required": true
   },
-  "fps_unlocker_config.json": {
-    "hash": "753317056948607444931f8b27d759b45e43650b94843e08e7638363876cae85",
-    "size": 309,
-    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/fps_unlocker_config.json",
+  "launcher.exe": {
+    "hash": "c405fc79333c6cabf28bd611caef430c082fb57bc016dd39973d1c541fde73b3",
+    "size": 49893104,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.exe",
     "required": true
   },
   "launcher_config.ini": {
     "hash": "84898fb86f3daffd2eea3030843aafd42924d110928ac2cfe314bc3ea30b1670",
     "size": 129,
     "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher_config.ini",
+    "required": true
+  },
+  "regulation.bin": {
+    "hash": "c105f78a1ca81b3d9cba1c06ea3918955931c958cd183095dd9ede5ad62f6b4d",
+    "size": 1538784,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/regulation.bin",
+    "required": true
+  },
+  "testfile.txt": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/testfile.txt",
+    "required": true
+  },
+  "update.exe": {
+    "hash": "8a0206f9690e589e7c7378c99d72af54892518636ffa2f4734461b88e7e55a91",
+    "size": 93477621,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/update.exe",
     "required": true
   },
   "online_patch": {

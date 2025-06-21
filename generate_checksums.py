@@ -62,15 +62,15 @@ def generate_checksums():
     """Generate checksums for all files and folders and update version.json"""
     checksums = {}
     
-    # Individual files to check (not in folders)
-    individual_files = [
-        "launcher.exe",
-        "regulation.bin", 
-        "update.exe",
-        "game_actions_480.vdf",
-        "fps_unlocker_config.json",
-        "launcher_config.ini"
-    ]
+    # Files to exclude from processing
+    excluded_files = {
+        "generate_checksums.py",  # The script itself
+        "checksums.json",         # Checksums file
+        "version.json",           # Version file
+        "changelog.md",           # Changelog
+        ".gitignore",             # Git ignore
+        "README.md"               # Readme
+    }
     
     # Folders to create ZIP files for
     folders_to_zip = [
@@ -85,24 +85,24 @@ def generate_checksums():
     print("Using ZIP-based folder downloads for better efficiency")
     print("=" * 60)
     
-    # Process individual files
+    # Automatically detect individual files
     print("\n📄 Processing individual files:")
-    for file_name in individual_files:
-        if os.path.exists(file_name):
-            file_hash = calculate_file_hash(file_name)
-            if file_hash:
-                file_size = os.path.getsize(file_name)
-                checksums[file_name] = {
-                    "hash": file_hash,
-                    "size": file_size,
-                    "url": f"https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/{file_name}",
-                    "required": True
-                }
-                print(f"✓ {file_name}: {file_hash[:16]}... ({file_size:,} bytes)")
-            else:
-                print(f"✗ {file_name}: Could not calculate hash")
-        else:
-            print(f"✗ {file_name}: Not found")
+    for item in os.listdir('.'):
+        if os.path.isfile(item) and item not in excluded_files:
+            # Skip ZIP files (they're created by the script)
+            if not item.endswith('.zip'):
+                file_hash = calculate_file_hash(item)
+                if file_hash:
+                    file_size = os.path.getsize(item)
+                    checksums[item] = {
+                        "hash": file_hash,
+                        "size": file_size,
+                        "url": f"https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/{item}",
+                        "required": True
+                    }
+                    print(f"✓ {item}: {file_hash[:16]}... ({file_size:,} bytes)")
+                else:
+                    print(f"✗ {item}: Could not calculate hash")
     
     # Process folders by creating ZIP files
     print("\n📦 Creating ZIP files for folders:")
