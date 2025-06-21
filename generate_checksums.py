@@ -235,10 +235,7 @@ def cleanup_temp_zips():
 if __name__ == "__main__":
     generate_checksums()
     
-    # Ask user if they want to clean up ZIP files
+    # Always keep ZIP files for repository upload
     print("\n" + "=" * 60)
-    response = input("Do you want to clean up the temporary ZIP files? (y/n): ").lower().strip()
-    if response in ['y', 'yes']:
-        cleanup_temp_zips()
-    else:
-        print("ZIP files kept for manual upload to releases repo.") 
+    print("✅ ZIP files kept for repository upload.")
+    print("📦 Ready to commit and push to releases repo!") 
