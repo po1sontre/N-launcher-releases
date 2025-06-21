@@ -34,10 +34,10 @@
       "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/regulation.bin",
       "required": true
     },
-    "testfile.txt": {
+    "testfile2.txt": {
       "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 0,
-      "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/testfile.txt",
+      "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/testfile2.txt",
       "required": true
     },
     "update.exe": {
