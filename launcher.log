@@ -1,0 +1,107 @@
+2025-07-16 23:13:24,696 - INFO - === Nightreign Launcher Started ===
+2025-07-16 23:13:24,696 - INFO - Launcher directory: C:\Users\po1so\Desktop\po1sontre\launcher_releases\releases
+2025-07-16 23:13:24,696 - INFO - Log file: C:\Users\po1so\Desktop\po1sontre\launcher_releases\releases\launcher.log
+2025-07-16 23:13:25,852 - INFO - === Starting update check ===
+2025-07-16 23:13:25,852 - INFO - Fetching remote version.json from: https://raw.githubusercontent.com/po1sontre/N-launcher-releases/main/version.json?t=1752700405
+2025-07-16 23:13:25,854 - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-07-16 23:13:26,074 - DEBUG - https://raw.githubusercontent.com:443 "GET /po1sontre/N-launcher-releases/main/version.json?t=1752700405 HTTP/1.1" 200 1138
+2025-07-16 23:13:26,077 - INFO - Successfully fetched remote version.json with 12 file entries
+2025-07-16 23:13:26,077 - INFO - Remote version.json contains 12 files
+2025-07-16 23:13:26,078 - INFO - Loaded local version.json with 12 file entries
+2025-07-16 23:13:26,078 - INFO - Local version.json contains 12 files
+2025-07-16 23:13:26,078 - INFO - --- Comparing local files against remote manifest ---
+2025-07-16 23:13:26,078 - INFO - Local version.json entries: 12
+2025-07-16 23:13:26,078 - INFO - Remote version.json entries: 12
+2025-07-16 23:13:26,078 - INFO - All remote files exist in local version.json
+2025-07-16 23:13:26,079 - INFO - All remote files: ['fps_unlocker_config.json', 'game_actions_480.vdf', 'launcher.exe', 'launcher.log', 'launcher_config.ini', 'regulation.bin', 'update.exe', 'online_patch', 'templates', 'fps unlock', 'nograssnoshadows', 'mods']
+2025-07-16 23:13:26,079 - INFO - All local files: ['fps_unlocker_config.json', 'game_actions_480.vdf', 'launcher.exe', 'launcher.log', 'launcher_config.ini', 'regulation.bin', 'update.exe', 'online_patch', 'templates', 'fps unlock', 'nograssnoshadows', 'mods']
+2025-07-16 23:13:26,079 - INFO - Launcher directory: C:\Users\po1so\Desktop\po1sontre\launcher_releases\releases
+2025-07-16 23:13:26,079 - INFO - --- Checking FOLDERS ---
+2025-07-16 23:13:26,079 - INFO - Checking folder: online_patch
+2025-07-16 23:13:26,079 - INFO -   Local path exists: True
+2025-07-16 23:13:26,079 - INFO -   Local info exists: True
+2025-07-16 23:13:26,079 - INFO -   Remote hash: c661c0ffeed0c977...
+2025-07-16 23:13:26,079 - INFO -   Local hash: c661c0ffeed0c977...
+2025-07-16 23:13:26,079 - INFO -   Hashes match: True
+2025-07-16 23:13:26,079 - INFO -   [OK] online_patch
+2025-07-16 23:13:26,079 - INFO - Checking folder: templates
+2025-07-16 23:13:26,079 - INFO -   Local path exists: True
+2025-07-16 23:13:26,079 - INFO -   Local info exists: True
+2025-07-16 23:13:26,079 - INFO -   Remote hash: 5b9f8a7196a9e61b...
+2025-07-16 23:13:26,079 - INFO -   Local hash: 5b9f8a7196a9e61b...
+2025-07-16 23:13:26,079 - INFO -   Hashes match: True
+2025-07-16 23:13:26,079 - INFO -   [OK] templates
+2025-07-16 23:13:26,079 - INFO - Checking folder: fps unlock
+2025-07-16 23:13:26,080 - INFO -   Local path exists: True
+2025-07-16 23:13:26,080 - INFO -   Local info exists: True
+2025-07-16 23:13:26,080 - INFO -   Remote hash: 642758c8da46b389...
+2025-07-16 23:13:26,080 - INFO -   Local hash: 642758c8da46b389...
+2025-07-16 23:13:26,080 - INFO -   Hashes match: True
+2025-07-16 23:13:26,080 - INFO -   [OK] fps unlock
+2025-07-16 23:13:26,080 - INFO - Checking folder: nograssnoshadows
+2025-07-16 23:13:26,080 - INFO -   Local path exists: True
+2025-07-16 23:13:26,080 - INFO -   Local info exists: True
+2025-07-16 23:13:26,080 - INFO -   Remote hash: 58fd4897c9fbbba2...
+2025-07-16 23:13:26,080 - INFO -   Local hash: 58fd4897c9fbbba2...
+2025-07-16 23:13:26,080 - INFO -   Hashes match: True
+2025-07-16 23:13:26,080 - INFO -   [OK] nograssnoshadows
+2025-07-16 23:13:26,080 - INFO - Checking folder: mods
+2025-07-16 23:13:26,080 - INFO -   Local path exists: True
+2025-07-16 23:13:26,080 - INFO -   Local info exists: True
+2025-07-16 23:13:26,080 - INFO -   Remote hash: 9a7f1729bb5d8c3c...
+2025-07-16 23:13:26,080 - INFO -   Local hash: 9a7f1729bb5d8c3c...
+2025-07-16 23:13:26,080 - INFO -   Hashes match: True
+2025-07-16 23:13:26,080 - INFO -   [OK] mods
+2025-07-16 23:13:26,081 - INFO - --- Checking FILES ---
+2025-07-16 23:13:26,081 - INFO - Checking file: fps_unlocker_config.json
+2025-07-16 23:13:26,081 - INFO -   Local path exists: True
+2025-07-16 23:13:26,081 - INFO -   Local info exists: True
+2025-07-16 23:13:26,081 - INFO -   Remote hash: 753317056948607444931f8b27d759b45e43650b94843e08e7638363876cae85
+2025-07-16 23:13:26,081 - INFO -   Local hash: 753317056948607444931f8b27d759b45e43650b94843e08e7638363876cae85
+2025-07-16 23:13:26,081 - INFO -   Hashes match: True
+2025-07-16 23:13:26,081 - INFO -   [OK] fps_unlocker_config.json
+2025-07-16 23:13:26,081 - INFO - Checking file: game_actions_480.vdf
+2025-07-16 23:13:26,081 - INFO -   Local path exists: True
+2025-07-16 23:13:26,081 - INFO -   Local info exists: True
+2025-07-16 23:13:26,081 - INFO -   Remote hash: 029277a6ee29d409a75265d9898dfdfdcd85f58fa036b70f48f13a5158f2ec4d
+2025-07-16 23:13:26,081 - INFO -   Local hash: 029277a6ee29d409a75265d9898dfdfdcd85f58fa036b70f48f13a5158f2ec4d
+2025-07-16 23:13:26,081 - INFO -   Hashes match: True
+2025-07-16 23:13:26,081 - INFO -   [OK] game_actions_480.vdf
+2025-07-16 23:13:26,081 - INFO - Checking file: launcher.exe
+2025-07-16 23:13:26,081 - INFO -   Local path exists: True
+2025-07-16 23:13:26,081 - INFO -   Local info exists: True
+2025-07-16 23:13:26,082 - INFO -   Remote hash: d25e3aa035bc0018c5de0b3d28ceedd16f36275db7f2ee102bdc55edff536e42
+2025-07-16 23:13:26,082 - INFO -   Local hash: d25e3aa035bc0018c5de0b3d28ceedd16f36275db7f2ee102bdc55edff536e42
+2025-07-16 23:13:26,082 - INFO -   Hashes match: True
+2025-07-16 23:13:26,082 - INFO -   [OK] launcher.exe
+2025-07-16 23:13:26,082 - INFO - Checking file: launcher.log
+2025-07-16 23:13:26,082 - INFO -   Local path exists: True
+2025-07-16 23:13:26,082 - INFO -   Local info exists: True
+2025-07-16 23:13:26,082 - INFO -   Remote hash: d18c4afebc468d17304ee857dafa9131ecfdd70ae0cc218ccfeabf7c096ac071
+2025-07-16 23:13:26,082 - INFO -   Local hash: d18c4afebc468d17304ee857dafa9131ecfdd70ae0cc218ccfeabf7c096ac071
+2025-07-16 23:13:26,082 - INFO -   Hashes match: True
+2025-07-16 23:13:26,082 - INFO -   [OK] launcher.log
+2025-07-16 23:13:26,082 - INFO - Checking file: launcher_config.ini
+2025-07-16 23:13:26,082 - INFO -   Local path exists: True
+2025-07-16 23:13:26,082 - INFO -   Local info exists: True
+2025-07-16 23:13:26,082 - INFO -   Remote hash: 84898fb86f3daffd2eea3030843aafd42924d110928ac2cfe314bc3ea30b1670
+2025-07-16 23:13:26,082 - INFO -   Local hash: 84898fb86f3daffd2eea3030843aafd42924d110928ac2cfe314bc3ea30b1670
+2025-07-16 23:13:26,082 - INFO -   Hashes match: True
+2025-07-16 23:13:26,082 - INFO -   [OK] launcher_config.ini
+2025-07-16 23:13:26,082 - INFO - Checking file: regulation.bin
+2025-07-16 23:13:26,083 - INFO -   Local path exists: True
+2025-07-16 23:13:26,083 - INFO -   Local info exists: True
+2025-07-16 23:13:26,083 - INFO -   Remote hash: 97c1e474635f7beed685d46f729ad404f50daa2df67b890efa7b15c44994d90e
+2025-07-16 23:13:26,083 - INFO -   Local hash: 97c1e474635f7beed685d46f729ad404f50daa2df67b890efa7b15c44994d90e
+2025-07-16 23:13:26,083 - INFO -   Hashes match: True
+2025-07-16 23:13:26,083 - INFO -   [OK] regulation.bin
+2025-07-16 23:13:26,083 - INFO - Checking file: update.exe
+2025-07-16 23:13:26,083 - INFO -   Local path exists: True
+2025-07-16 23:13:26,083 - INFO -   Local info exists: True
+2025-07-16 23:13:26,083 - INFO -   Remote hash: 44eb70c56558bef3e4b61ac1d19ea48e66a04a89ec0b25e262386939ea3e24b0
+2025-07-16 23:13:26,083 - INFO -   Local hash: 44eb70c56558bef3e4b61ac1d19ea48e66a04a89ec0b25e262386939ea3e24b0
+2025-07-16 23:13:26,083 - INFO -   Hashes match: True
+2025-07-16 23:13:26,083 - INFO -   [OK] update.exe
+2025-07-16 23:13:26,083 - INFO - All local files are present and up to date.
+2025-07-16 23:13:26,083 - INFO - --- Comparison complete ---
+2025-07-16 23:13:26,083 - INFO - All files are up to date!

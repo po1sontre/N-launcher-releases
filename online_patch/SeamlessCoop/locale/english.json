@@ -1,0 +1,9 @@
+{
+
+	"MODMESSAGE_YUINEXUSPLAYERCOUNTREMAINING": "{} / {}",
+	
+	"MODMESSAGE_YUINEXUSNOSEAMLESS": "Failed to join lobby\nThe host is not using seamless co-op",
+	"MODMESSAGE_YUINEXUSWRONGSSR": "Failed to join lobby\nThe host version of seamless co-op does not match",
+
+	"CREDITS": "Yui"
+}

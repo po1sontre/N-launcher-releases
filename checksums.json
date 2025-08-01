@@ -1,0 +1,121 @@
+{
+  "fps_unlocker_config.json": {
+    "hash": "753317056948607444931f8b27d759b45e43650b94843e08e7638363876cae85",
+    "size": 309,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/fps_unlocker_config.json",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/fps_unlocker_config.json"
+    },
+    "required": true
+  },
+  "game_actions_480.vdf": {
+    "hash": "029277a6ee29d409a75265d9898dfdfdcd85f58fa036b70f48f13a5158f2ec4d",
+    "size": 1652,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/game_actions_480.vdf",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/game_actions_480.vdf"
+    },
+    "required": true
+  },
+  "launcher.exe": {
+    "hash": "d25e3aa035bc0018c5de0b3d28ceedd16f36275db7f2ee102bdc55edff536e42",
+    "size": 49901582,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.exe",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.exe"
+    },
+    "required": true
+  },
+  "launcher.log": {
+    "hash": "f6ca8501c699c111f6837ec7d1193460b1cb3c5a2b3f0b1462f3c1750b025c77",
+    "size": 8173,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.log",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher.log"
+    },
+    "required": true
+  },
+  "launcher_config.ini": {
+    "hash": "84898fb86f3daffd2eea3030843aafd42924d110928ac2cfe314bc3ea30b1670",
+    "size": 129,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher_config.ini",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/launcher_config.ini"
+    },
+    "required": true
+  },
+  "regulation.bin": {
+    "hash": "97c1e474635f7beed685d46f729ad404f50daa2df67b890efa7b15c44994d90e",
+    "size": 1538784,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/regulation.bin",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/regulation.bin"
+    },
+    "required": true
+  },
+  "update.exe": {
+    "hash": "c017cd4a248cdc919d0d76b48dc1ca6159f8926746090d2ca83f06bfabc1ecc3",
+    "size": 871730153,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/update.exe",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/update.exe",
+      "google_drive": "https://drive.google.com/uc?export=download&id=1zPGpq6ocY9xhgEz1vGdF6wlskBfmByRy"
+    },
+    "required": true
+  },
+  "online_patch": {
+    "hash": "0308ce0aeed0089815ab226ce510dcd112bb9c259fa005eb5d6d32818152b248",
+    "size": 34880844,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/online_patch.zip",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/online_patch.zip"
+    },
+    "required": true,
+    "is_folder": true,
+    "zip_file": "online_patch.zip"
+  },
+  "templates": {
+    "hash": "5b9f8a7196a9e61b49c179306895fa1469fde5098d1ad5c83c997e314f65b6cb",
+    "size": 251957,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/templates.zip",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/templates.zip"
+    },
+    "required": true,
+    "is_folder": true,
+    "zip_file": "templates.zip"
+  },
+  "fps unlock": {
+    "hash": "642758c8da46b389ac92a0403c5cb333a54adc85a716cf81281716194ee026cd",
+    "size": 384484,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/fps unlock.zip",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/fps unlock.zip"
+    },
+    "required": true,
+    "is_folder": true,
+    "zip_file": "fps unlock.zip"
+  },
+  "nograssnoshadows": {
+    "hash": "58fd4897c9fbbba2722c187231905414732b90bc051a42fef13a2cf01a31d5ed",
+    "size": 1794548,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/nograssnoshadows.zip",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/nograssnoshadows.zip"
+    },
+    "required": true,
+    "is_folder": true,
+    "zip_file": "nograssnoshadows.zip"
+  },
+  "mods": {
+    "hash": "9a7f1729bb5d8c3c37c1c4a49860fa0fed901ca0b29f847f7bf44df082110985",
+    "size": 1539404,
+    "url": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/mods.zip",
+    "urls": {
+      "github": "https://raw.githubusercontent.com/po1sontre/N-launcher-releases/refs/heads/main/mods.zip"
+    },
+    "required": true,
+    "is_folder": true,
+    "zip_file": "mods.zip"
+  }
+}
